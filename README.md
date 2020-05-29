@@ -1,4 +1,4 @@
-# Investor-Financial-Dashboard
+# Stock-Market-ML-Dashboard
 ![dashboard](img/dashboard.JPG)
 
 
