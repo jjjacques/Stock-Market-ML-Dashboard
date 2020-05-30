@@ -9,12 +9,12 @@ Machine Learning for price prediction using Facebook Prophet and Long Short Term
 
 ### Use Case:
 Create a visual dashboard using Power BI Business Analytics 
-Provide price charts of the various US Stock Index
-Provide price charts of the various the company Stock 
-Provide price prediction chart of Facebook Prophet ML Model  
-Provide price prediction chart of Long Short Term Memory ML Model
-All data to exist on MySQL DB
-Power BI slicer automation
+ - Provide price charts of the various US Stock Index
+ - Provide price charts of the various the company Stock 
+ - Provide price prediction chart of Facebook Prophet ML Model  
+ - Provide price prediction chart of Long Short Term Memory ML Model
+ - All data to exist on MySQL DB
+ - Power BI slicer automation
 
 **Project MEMBERS:**
 * [James Jean-Jacques](https://github.com/jjjacques)
